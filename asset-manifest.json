@@ -1,6 +1,9 @@
 {
-  "main.css": "static/css/main.65027555.css",
-  "main.css.map": "static/css/main.65027555.css.map",
-  "main.js": "static/js/main.7c9da1bf.js",
-  "main.js.map": "static/js/main.7c9da1bf.js.map"
+  "main.js": "static/js/main.54a3317b.js",
+  "main.js.map": "static/js/main.54a3317b.js.map",
+  "static\\media\\air-pollution.jpg": "static/media/air-pollution.959c3028.jpg",
+  "static\\media\\cooling-tower.jpg": "static/media/cooling-tower.46ba8d5a.jpg",
+  "static\\media\\deforestation.jpg": "static/media/deforestation.e0b0bd1b.jpg",
+  "static\\media\\index.scss": "static/media/index.b3c41a3b.scss",
+  "static\\media\\search-solid.svg": "static/media/search-solid.aeab848c.svg"
 }
